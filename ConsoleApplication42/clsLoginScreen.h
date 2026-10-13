@@ -1,4 +1,4 @@
-/*#pragma once
+#pragma once
 
 #include <iostream>
 #include <string>
@@ -65,8 +65,8 @@ public:
 
     }
 
-};*/
-
+};
+/*
 #pragma once
 #include<iostream>
 #include<string>
@@ -122,4 +122,4 @@ public:
 
 
 
-};
+};*/
